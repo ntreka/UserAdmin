@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/Solution Items/">
-    <File Path=".gitignore.txt" />
+    <File Path=".gitignore" />
   </Folder>
   <Project Path="UserAdmin/UserAdmin.csproj" />
 </Solution>
